@@ -15,7 +15,7 @@ LoginLogoutTest
     Set Browser Implicit Wait    5
     Click Element    link=Logout       
     Log    fin de test     
-    
+    Log    Test d'affichage pour le voir dans Git    
 *** Variables ***
 # variable scalaire
 ${url}    https://opensource-demo.orangehrmlive.com/index.php/auth/login   
